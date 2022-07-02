@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "denoland/fresh",
+    "stargazers_count": 5308,
+    "open_issues_count": 51,
+    "forks_count": 151
+  },
+  {
     "full_name": "ethereum/go-ethereum",
     "stargazers_count": 38194,
     "open_issues_count": 360,
     "forks_count": 14301
+  },
+  {
+    "full_name": "figment-networks/learn-tutorials",
+    "stargazers_count": 52,
+    "open_issues_count": 0,
+    "forks_count": 141
+  },
+  {
+    "full_name": "figment-networks/learn-tutorials",
+    "stargazers_count": 52,
+    "open_issues_count": 0,
+    "forks_count": 141
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
