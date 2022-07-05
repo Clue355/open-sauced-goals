@@ -1,32 +1,20 @@
 [
   {
     "full_name": "denoland/fresh",
-    "stargazers_count": 5308,
-    "open_issues_count": 51,
-    "forks_count": 151
+    "stargazers_count": 6498,
+    "open_issues_count": 63,
+    "forks_count": 199
   },
   {
     "full_name": "ethereum/go-ethereum",
-    "stargazers_count": 38194,
-    "open_issues_count": 360,
-    "forks_count": 14301
-  },
-  {
-    "full_name": "figment-networks/learn-tutorials",
-    "stargazers_count": 52,
-    "open_issues_count": 0,
-    "forks_count": 141
-  },
-  {
-    "full_name": "figment-networks/learn-tutorials",
-    "stargazers_count": 52,
-    "open_issues_count": 0,
-    "forks_count": 141
+    "stargazers_count": 38230,
+    "open_issues_count": 352,
+    "forks_count": 14323
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 58388,
-    "open_issues_count": 23,
-    "forks_count": 2921
+    "stargazers_count": 58477,
+    "open_issues_count": 18,
+    "forks_count": 2936
   }
 ]
